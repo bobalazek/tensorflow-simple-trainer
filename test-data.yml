@@ -1,0 +1,5 @@
+- 'hey what are you doing today': [ greeting ]
+- 'can you tell me what the time is now': [ what_time_is_it ]
+- 'ok then see you sometime later': [ goodbye ]
+- 'the movie was quite good': [ good_movie ]
+- 'I could not watch the movie for more than 5 minutes because it was horrible': [ bad_movie ]

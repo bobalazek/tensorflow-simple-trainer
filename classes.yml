@@ -1,0 +1,116 @@
+greeting:
+    matches:
+        - hey
+        - hey man
+        - hey bro
+        - hey brother
+        - hey pal
+        - hey gal
+        - hey girl
+        - hey mate
+        - hello
+        - hi
+        - yo
+        - salute
+        - are you ok
+        - you alright
+        - alright mate
+        - howdy
+        - sup
+        - whazzup
+        - whaddup
+        - g'day mate
+        - hiya
+        - how's it going
+        - how are you
+        - how are you doing
+        - what's up
+        - what's new
+        - what's going on
+        - how's everything
+        - how are things
+        - how's life
+        - how's your day
+        - how's your day going
+        - good to see you
+        - nice to see you
+        - long time no see
+        - it's been a while
+        - good morning
+        - good afternoon
+        - good evening
+        - nice to meet you
+        - pleased to meet you
+        - how have you been
+        - how do you do
+        - how's it going
+        - how is it going
+        - how's it going on
+        - how is it going on
+        - what's going on
+        - what is going on
+        - how have you been
+        - all good mate
+        - all right mate
+        - how are you doing today
+
+goodbye:
+    matches:
+        - goodbye
+        - adios
+        - ciao
+        - au revoir
+        - sayonara
+        - farewell
+        - have a good day
+        - take care
+        - bye
+        - later
+        - catch later
+        - see you later
+        - see'ya
+        - talk to you later
+        - have a good one
+        - so long
+        - all right then
+        - catch you later
+        - peace
+        - peace out
+        - I'm out
+        - smell you later
+        - keep in touch
+        - talk to you tomorrow
+
+what_time_is_it:
+    matches:
+        - what is the time
+        - what time is it
+
+what_date_is_it:
+    matches:
+        - what is the date
+        - what date is it
+        - what is the date today
+        - what's the date today
+
+good_movie:
+    matches:
+        - this was a really great movie
+        - the movie was awesome
+        - I absolutely loved the movie
+        - it was a good movie
+        - it was a really nice movie
+        - I really liked that movie
+
+bad_movie:
+    matches:
+        - the movie was boring
+        - the movie was total shit
+        - the movie was really bad
+        - it was a horrible movie
+        - I can not believe that I watched this
+        - the movie was pure shit
+        - I hated this movie
+        - I stopped watched the movie because it was really bad
+        - I did not liked the movie
+        

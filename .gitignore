@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# App related
+brain/*
+!brain/.gitkeep
