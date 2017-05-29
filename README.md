@@ -3,10 +3,8 @@ Text classification trainer for the BOW model.
 
 ## Requirements
 * Python 3.5
-
-## Installation
-* Install [Tensorflow](https://www.tensorflow.org/install/)
-* Install [TFLearn](https://github.com/tflearn/tflearn)
+* [Tensorflow](https://www.tensorflow.org/install/)
+* [TFLearn](https://github.com/tflearn/tflearn)
 
 ## Usage
 * Download the repository
