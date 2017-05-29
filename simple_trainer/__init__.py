@@ -19,10 +19,10 @@ class SimpleTrainer:
     train_set = [] # [{ 'input': [0, 0, 0, ...], 'output': [0, 0, 0, ...] }, ...]
     test_set = [] # [{ 'input': [0, 0, 0, ...], 'output': [0, 0, 0, ...] }, ...]
 
-    train_x = [] # just a array or train_set inputs
-    train_y = [] # just a array or train_set outputs
-    test_x = [] # just a array or test_set inputs
-    test_y = [] # just a array or test_set outputs
+    train_x = [] # just an array of train_set inputs
+    train_y = [] # just an array ofr train_set outputs
+    test_x = [] # just an array of test_set inputs
+    test_y = [] # just an array of test_set outputs
 
     ##### Preparation methods #####
     def prepare(self):
