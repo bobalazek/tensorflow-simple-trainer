@@ -3,8 +3,13 @@ import math
 import re
 import operator
 import tensorflow as tf
-import tflearn
 import sys, os
+
+# We want to ignore those annoying "exceptions",
+# "Scipy not supported!", "hdf5 is not supported on this machine ...", ..
+sys.stdout = open(os.devnull, 'w')
+import tflearn
+sys.stdout = sys.__stdout__
 
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
