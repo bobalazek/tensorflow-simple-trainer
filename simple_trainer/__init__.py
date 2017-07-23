@@ -6,6 +6,8 @@ import tensorflow as tf
 import tflearn
 import sys, os
 
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+
 class SimpleTrainer:
 
     model = None
