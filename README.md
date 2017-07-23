@@ -8,6 +8,7 @@ Text classification trainer for the BOW model.
 
 ## Usage
 * Download the repository
+* Install the requirements: `pip install -r requirements.txt`
 * Enter your classes into `classes.yml`
 * Enter some test data into `test-data.yml`
 * Run `python train.py` to train your model
